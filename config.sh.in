@@ -1,0 +1,4 @@
+CURL=$(which curl)
+API_URL="https://api.telegram.org/"
+TOKEN=""                                # Got with @BotFather
+USER_ID=""                              # Got with @userinfobot
